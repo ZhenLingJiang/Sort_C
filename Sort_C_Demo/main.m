@@ -229,6 +229,8 @@ void mergeSort(int* arr, int start, int end)
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
+        NSLog(@"Test---1111");
+        
         int bubbleArray[6] = {6,5,4,3,2,1};
         
         bubbleSort(bubbleArray,6);
