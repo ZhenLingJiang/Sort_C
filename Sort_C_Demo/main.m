@@ -226,6 +226,10 @@ void mergeSort(int* arr, int start, int end)
 //    printf("---------归并排序完成,共排序了%d次--------\n",count);
 }
 
+void test() {
+    NSLog(@"test--11111111");    
+}
+
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
