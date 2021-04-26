@@ -229,6 +229,7 @@ void mergeSort(int* arr, int start, int end)
 void test() {
     NSLog(@"test--11111111");
     NSLog(@"test-2222222222");
+    NSLog(@"test-3333");
 }
 
 int main(int argc, const char * argv[]) {
